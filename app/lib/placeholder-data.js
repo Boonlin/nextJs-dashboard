@@ -23,6 +23,12 @@ const customers = [
     image_url: '/customers/lee-robinson.png',
   },
   {
+    id: '3958dc9e-742f-4377-85e9-fec4b6a6442b',
+    name: 'Em Boonlin',
+    email: 'boonlin777@ksg.com',
+    image_url: '/customers/lee-robinson.png',
+  },
+  {
     id: '3958dc9e-737f-4377-85e9-fec4b6a6442a',
     name: 'Hector Simpson',
     email: 'hector@simpson.com',
@@ -37,6 +43,12 @@ const customers = [
   {
     id: '3958dc9e-787f-4377-85e9-fec4b6a6442a',
     name: 'Steph Dietz',
+    email: 'steph@dietz.com',
+    image_url: '/customers/steph-dietz.png',
+  },
+  {
+    id: '3958dc9e-787f-4377-85e9-fec4b6a644ba',
+    name: 'Em Boonlin',
     email: 'steph@dietz.com',
     image_url: '/customers/steph-dietz.png',
   },
